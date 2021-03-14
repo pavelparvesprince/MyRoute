@@ -1,0 +1,9 @@
+$nameColor:red;
+$backgroundColor : green;
+$mypadding: 10px;
+
+.textStylesass{
+    padding: $mypadding;
+    color: $nameColor;
+    background-color: $backgroundColor;
+}
